@@ -1,16 +1,16 @@
 <h1>LogicTrade©</h1>
 <h3>Ici c'est une application de gestion de base de données SQL et marcher financier.</h3>
 <br>
-<img width="1205" height="782" alt="Capture" src="https://github.com/user-attachments/assets/c7427326-8e36-4eeb-a960-28f92879f23c" />
+<img width="1205" height="782" alt="Cap5ture" src="https://github.com/user-attachments/assets/2581b19a-dea5-4fb7-8e2c-e8bf39508b2d" />
 <h3>👉🏽 Acceuil epuré et simple d'utilisation.</h3>
 <br>
-<img width="1204" height="782" alt="Captur2e" src="https://github.com/user-attachments/assets/c453528a-0d2e-4cbe-9c04-41b787454dc7" />
+<img width="1204" height="782" alt="Captur2e" src="https://github.com/user-attachments/assets/cfda5875-2457-4f2c-b284-4b80af4334b0" />
 <h3>👉🏽 Choisissez parmis un grand nombre de données piocher et filtrer par les soins de notre IA sur les marcher financiers.</h3>
 <br>
-<img width="1279" height="779" alt="Ca3pture" src="https://github.com/user-attachments/assets/eda0e5ec-e3a9-40ab-9cfd-5c53cb3cbcca" />
+<img width="1279" height="779" alt="Ca3pture" src="https://github.com/user-attachments/assets/11e38d56-a50c-4717-8dd2-30e02f9778fc" />
 <h3>👉🏽 Lecture de fichier .db</h3>
 <br>
-<img width="1207" height="782" alt="Ca4pture" src="https://github.com/user-attachments/assets/873a4cad-8430-43c0-b492-b283121a4bd9" />
+<img width="1207" height="782" alt="Ca4pture" src="https://github.com/user-attachments/assets/78e9cb2d-e014-4c96-ab07-e1b990cd2fd2" />
 <h3>👉🏽 Affichage via graphiques depuis le fichier .db des données exporter par notre IA dans le dossier choisis.</h3>
 <br>
 <img width="1207" height="786" alt="Ca9pture" src="https://github.com/user-attachments/assets/b2f182cc-227f-4f2b-8ee5-35454a76c5aa" />
